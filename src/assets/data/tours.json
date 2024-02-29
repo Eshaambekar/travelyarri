@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Kedarnath",
+    "city": "Kedarnath",
+    "address": "State: Uttarakhand District: Rudraprayag",
+    "distance": 300,
+    "price": 1200,
+    "maxGroupSize": 10,
+    "desc": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple. It is approximately 86 kilometres from Rudraprayag, the district headquarter. Kedarnath is the most remote of the four Chota Char Dham pilgrimage sites. It is located in the Himalayas, about 3,583 m (11,755 ft) above sea level near the Chorabari Glacier, which is the source of the Mandakini river. The town is flanked by snow-capped peaks, most prominently the Kedarnath Mountain. The nearest road head is at Gaurikund about 16 km away. The town suffered extensive destruction during June 2013 from the Flash Floods caused by torrential rains in Uttarakhand state.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Shaniwar Wada",
+    "city": "Pune",
+    "address": "Shaniwar Peth, Pune, Maharashtra 411030",
+    "distance": 400,
+    "price": 1000,
+    "maxGroupSize": 8,
+    "desc": "Shaniwar Wada is a historical fortification in the city of Pune, India. Built in 1732,[1] it was the great seat of the Peshwas of the Maratha Empire until 1818. Following the rise of the Maratha Empire, the palace became the center of Indian politics in the 18th century.The fort itself was largely destroyed in 1828 by an unexplained fire, but the surviving structures are now maintained as a tourist site.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gateway Of India",
+    "city": "Mumbai",
+    "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "distance": 500,
+    "price": 1000,
+    "maxGroupSize": 8,
+    "desc": "One of the most visited places to visit in mumbai in one day, the Gateway of India is counted among Mumbai tourist places that see excellent footfall at any time of the year. The attraction was built by the British in 1919, by the then Governor of Bombay, Sir George Sydenham Clarke, who laid the foundation of the monument in 1911. The plan was approved in 1914, after which construction began.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Palolem Beach",
+    "city": "Goa",
+    "address": "Palolem Beach is situated in Canacona in southern Goa, India.",
+    "distance": 400,
+    "price": 2500,
+    "maxGroupSize": 8,
+    "desc": "Palolem Beach is a stretch of white sand on a bay in Goa, South India. It's known for its calm waters and for its nightlife, including silent discos where partygoers wear headphones. Lined with palm trees and colorful wooden shacks, the beach faces Canacona Island, known for its resident monkeys. To the south, turtles nest at Galgibaga Beach. Inland, Cotigao Wildlife Sanctuary is home to birds, wild boars and gaur.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lal Mahal",
+    "city": "Pune",
+    "address": "Chhatrapati Shivaji Maharaj Rd, Durvankur Society, Kasba Peth, Pune, Maharashtra 411011",
+    "distance": 400,
+    "price": 1500,
+    "maxGroupSize": 8,
+    "desc": "The Lal Mahal (Red Palace) of Pune is one of the most famous monuments located in Pune, India, where Shivaji I, founder of the Maratha Empire spent his childhood. The Lal Mahal is also famous for an encounter between Shivaji and Shaista Khan where Shivaji cut off the latter's fingers when he was trying to escape from the window of the Lal Mahal.[4] This was part of a surreptitious guerrilla attack on the massive and entrenched Mughal Army that had camped in Pune, with Shaista occupying (possibly symbolically) Shivaji's childhood home. As a punishment for the ignominy of the defeat despite superior numbers and better armed and fed soldiers, Shaista was transferred by the Mughal Emperor to Bengal.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "Agra",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+    "distance": 400,
+    "price": 1500,
+    "maxGroupSize": 8,
+    "desc": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. ",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Valley of Flowers, Uttarakhand",
+    "city": "Uttarakhand",
+    "address": "Uttarakhand",
+    "distance": 400,
+    "price": 2000,
+    "maxGroupSize": 8,
+    "desc": "Valley of Flowers National Park is an Indian national park which was established in 1982. It is located in Chamoli in the state of Uttarakhand and is known for its meadows of endemic alpine flowers and the variety of flora. This richly diverse area is also home to rare and endangered animals, including the Asiatic black bear, snow leopard, musk deer, brown bear, red fox and blue sheep. Birds found in the park include Himalayan monal pheasant and other high altitude birds.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaipur - The Paris of India",
+    "city": "Jaipur",
+    "address": "Jaipur",
+    "distance": 400,
+    "price": 1500,
+    "maxGroupSize": 8,
+    "desc": "Jaipur  formerly Jeypore, is the capital and largest city of the Indian state of Rajasthan. As of 2011, the city had a population of 3.1 million, making it the tenth most populous city in the country. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings. It is also known as the Paris of India, and C. V. Raman called it the Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. It was one of the earliest planned cities of modern India, designed by Vidyadhar Bhattacharya. During the British Colonial period, the city served as the capital of Jaipur State. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lonavala",
+    "city": " Lonavala",
+    "address": "Somewhere in Lonavala",
+    "distance": 100,
+    "price": 2000,
+    "maxGroupSize": 5,
+    "desc": "Lonavala is one of the twin hill stations located near to each other, the other being Khandala. These hill stations are very popular getaway spots for people from Mumbai and Pune, which are very well-linked with Lonavala by road and rail. Monsoons are the best time to visit Lonavala/Khandala.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Golden Temple",
+    "city": "Amritsar",
+    "address": "Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Amritsar Cantt., Punjab 143006",
+    "distance": 500,
+    "price": 3000,
+    "maxGroupSize": 8,
+    "desc": "The Golden Temple is a gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism. It is one of the holiest sites in Sikhism, alongside the Gurdwara Darbar Sahib Kartarpur in Kartarpur, and Gurdwara Janam Asthan in Nankana Sahib.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Mahabaleshwar",
+    "city": "Satara",
+    "address": "Mahabaleshwar is 121 kms away from Pune and 56.6 kms far from Satara and 178 Kms from Kolhapur.",
+    "distance": 500,
+    "price": 2000,
+    "maxGroupSize": 8,
+    "desc": "Mahableshwar is the best hill station of Maharashtra. It is situated about 4500 ft. above sea level on the Sahyadri spurs. It was the erstwhile summer capital of Old Bombay Presidency. The tourists are enthralled by its exotic greenery, beautiful gardens & breath-taking scenery. Numerous majestic mansions built during the British days still stand as monuments of the Raj. The favorite season for visiting is from March to June.It is well connected by roads",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img11.jpg",
+    "featured": false
+  },
+  {
+    "title": "Ellora Caves",
+    "city": "Aurangabad",
+    "address": "Aurangabad, Verul, Maharashtra 431102",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "Ellora Caves are a multi-religious rock-cut cave complex with inscriptions dating from the period 6th century CE onwards, located in the Aurangabad District of Maharashtra, India. They are also called verul caves. ",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img12.jpg",
+    "featured": false
+  },
+  {
+    "title": "Alleppey (Alappuzha)",
+    "city": "kerala",
+    "address": "Aurangabad, Verul, Maharashtra 431102",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "There is the whole of Kerala in one side, and then there is this heavenly tourist destination called Alappuzha or Alleppey! Esteemed as the ‘Backwater Capital of India’ or the ‘Venice of the East’, Alleppey is known for its silent backwaters and bountiful beauty! Seated on the banks of the azure Vembanad Lake, it is in fact one of the most popular backwater destinations in Kerala and one of the highest sought-aftertourist places in Kerala. Visit this paradise; enjoy houseboat cruise and stay, village walks, Ayurvedic therapies and lot more!",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": false
+  },
+  {
+    "title": "Charminar Lawns",
+    "city": "hyderabad",
+    "address": " Mumbra Bypass Rd, Sanjay Nagar, Mumbra, Thane, Maharashtra 400612",
+    "distance": 500,
+    "price": 9000,
+    "maxGroupSize": 8,
+    "desc": "Charminar was built by Sultan Mohammed Quli Qutb Shah in 1591. It is said that this square shaped structure with four pillars and intricate carvings was built in honour of his wife, Bhagmati. However, the actual reason behind building Charminar is still not clear.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": false
+  },
+  {
+    "title": "Alappuzha",
+    "city": "kerala",
+    "address": " The city is 55 km from Kochi and 155 km north of Thiruvananthapuram",
+    "distance": 500,
+    "price": 9000,
+    "maxGroupSize": 8,
+    "desc": "Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala. It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil canals and lagoons. Alappuzha Beach is the site of the 19th-century Alappuzha Lighthouse. The city's Mullakkal Temple features a traditional design. Punnamada Lake's snake boat races are a well-known annual event. ",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img15.jpg",
+    "featured": false
+  },
+  {
+    "title": "Bikaner",
+    "city": "Rajasthan",
+    "address": " ",
+    "price": 9000,
+    "maxGroupSize": 8,
+    "desc": "Bikaner is a city in the northwest of the state of Rajasthan, India. It is located 330 kilometres (205 mi) northwest of the state capital, Jaipur. Bikaner city is the administrative headquarters of Bikaner District and Bikaner division. Formerly the capital of the princely Bikaner State, the city was founded by Rao Bika, a Rajput chief of the Rathore clan in 1488 CE and from its small origins it has developed into the fourth largest city in Rajasthan. The Ganga Canal, completed in 1928, and the Indira Gandhi Canal, completed in 1987, facilitated its development.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.jpg",
+    "featured": false
+  }
+]
